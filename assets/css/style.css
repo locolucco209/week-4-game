@@ -1,0 +1,45 @@
+.intro .col-lg-4 {
+    background-color: orange;
+    color: white;
+    padding: 15px;
+    margin: 10px;
+}
+
+.instructions .col-lg-6 {
+    background-color: beige;
+    color: green;
+    padding: 15px;
+    margin: 10px;
+}
+
+.scoreboard .col-lg-3 {
+    background-color: rgb(1, 165, 1);
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    margin: 10px;
+}
+
+.winloss .col-lg-2 {
+    background-color: rgb(7, 255, 243);
+    color: rgb(0, 0, 0);
+    margin: 10px;
+    padding: 15px;
+}
+
+.theimages .col-lg-5 {
+    background-color: none;
+    padding: 15px;
+    margin: 10px;
+}
+
+.livescore .col-lg-4 {
+    background-color: rgb(36, 114, 82);
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    margin: 10px;
+    padding-bottom: 50px;
+}
+
+p {
+    font-size: 18px
+}
